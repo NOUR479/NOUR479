@@ -4,7 +4,7 @@
 
 I'm a third-year Software Engineering student at **ISSAT Sousse, Tunisia**, passionate about designing and building useful software applications.
 
-My interests include **software engineering, AI-powered applications, LLM integration, backend development, and mobile development**. I enjoy turning ideas into working projects, learning new technologies, and improving the quality and reliability of software.
+My interests include **software engineering, AI-powered applications, LLM integration, backend development, and web development**. I enjoy turning ideas into working projects, learning new technologies, and improving the quality and reliability of software.
 
 - 🎓 **Education:** Software Engineering — ISSAT Sousse, Tunisia
 - 💻 **Interests:** Software Engineering · Artificial Intelligence · Full-Stack Development
