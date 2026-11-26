@@ -1,4 +1,4 @@
-# Hi, I'm Nourelhouda Louhichi 👋
+# Hi, I'm Nourelhouda Louhichi 
 
 ### Software Engineering Student | AI & Full-Stack Development
 
@@ -10,11 +10,22 @@ My interests include **software engineering, AI-powered applications, LLM integr
 - 💻 **Interests:** Software Engineering · Artificial Intelligence · Full-Stack Development
 - 🛠️ **Currently exploring:** LLM-powered applications, automated testing, and reliable software systems
 - 🌍 **Languages:** Tunisian Arabic, French, and English
-- 🔗 **LinkedIn:** [Connect with me](www.linkedin.com/in/nourelhouda-louhichi-736857283)
+- 🔗 **LinkedIn:** [Connect with me](https://www.linkedin.com/in/nourelhouda-louhichi-736857283)
 
 ---
 
 ## 🚀 Featured Projects
+
+### 🏥 Diabetes Readmission Prediction
+An end-to-end, leakage-aware machine learning study predicting 30-day hospital readmission of diabetic patients, built on 101,766 encounters from 130 US hospitals.
+
+- Patient-level splitting, cross-validated model selection, probability calibration and bootstrap confidence intervals.
+- Clinical evaluation with decision curve analysis, SHAP explanations, a subgroup fairness audit and a model card.
+- Side analyses: length-of-stay regression and K-Means patient segmentation.
+
+**Technologies:** Python · scikit-learn · imbalanced-learn · SHAP · Jupyter / Google Colab
+
+[View repository](https://github.com/NOUR479/Projet-readmission-diabetiques-DataScience)
 
 ### 🛡️ CodeGuardian AI
 An AI-assisted Python debugging application powered by Google Gemini.
@@ -48,7 +59,7 @@ A backend project focused on event reservation functionality.
 ### 🛍️ My-Shop
 A web development project focused on online shopping functionality.
 
-**Technologies:** JavaScript, React, NodeJs, PostreSql,
+**Technologies:** JavaScript · React · NodeJS · PostgreSQL
 
 [View repository](https://github.com/NOUR479/My-Shop)
 
@@ -58,11 +69,11 @@ A web development project focused on online shopping functionality.
 
 **Programming languages**
 
-Python · Java · Kotlin · JavaScript · TypeScript · PHP  · C#  ·  dotnet 
+Python · Java · Kotlin · JavaScript · TypeScript · PHP · C# · .NET
 
 **AI & Data**
 
-Google Gemini API · LLM integration · Structured JSON responses  · LLM & RAG
+Google Gemini API · LLM integration · Structured JSON responses · LLM & RAG · Machine Learning (scikit-learn) · Model evaluation & explainability (SHAP)
 
 **Web & Backend**
 
@@ -74,7 +85,7 @@ Android · Kotlin
 
 **Tools & Practices**
 
-Git · GitHub · Automated Testing · Environment Variables · API Integration
+Git · GitHub · Automated Testing · Environment Variables · API Integration · Jupyter / Google Colab
 
 ---
 
